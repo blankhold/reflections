@@ -11,3 +11,11 @@ Why might you want to always pull changes manually rather than having Git automa
 Manual pull changes will add functions you created on GIT to your local machine. IF you were working with fixing a bug
 in a previous version of the file, you would need to stay in the previous version instead of an automaticallly updated 
 newer version. 
+
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks are used in the GitHub browser to create a copy of the repository for you to clone and use. CLone brings 
+a repository from git to a local computer. Branches are used to try out a new feature or functions and create
+a version of the program that goes a different route. 
