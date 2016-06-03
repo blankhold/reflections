@@ -27,3 +27,12 @@ What is the benefit of having a copy of the last known state of the remote store
 By having the last known state of the remote stored locally, we can be aware of where the remote is at, and update
 our local branch to merge and match that of the remote one if need be. This way we can also solve conflicts and 
 merge branches to master and master/origin. 
+
+
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without GitHub I would collaborate with others by manually keeping track of who is working on what and at 
+what point they are in development. Clearly this would be a long and tedious process, and it would be 
+annoying to keep up with. The manual process would be much harder. 
